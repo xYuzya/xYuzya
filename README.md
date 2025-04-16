@@ -1,4 +1,4 @@
-# 👋 Salut, moi c'est Katsuki
+# 👋 Salut, moi c'est Yuzya
 
 Développeur passionné basé en France 🇫🇷, je suis spécialisé en Java, Node.js, C++, C# et bien d'autres. J'aime créer des applications performantes, des outils utiles et des projets qui repoussent les limites de la technologie. Je travaille principalement avec IntelliJ IDEA, VSCode et Unreal Engine 5.
 
