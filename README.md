@@ -2,7 +2,7 @@
 
 <img src="https://i.ibb.co/27VR1YW8/Now-Github-allows-diagrams-and-flowcharts-in-markdown-files.jpg" alt="Bannière xYuzya" style="width:100%; max-height:300px; object-fit:cover; border-radius:12px"/>
 
-# 👋 Salut, moi c'est Katsuki
+# 👋 Salut, moi c'est xYuzya
 
 Développeur passionné basé en France 🇫🇷, je suis spécialisé en Java, Node.js, C++, C# et bien d'autres.  
 J'aime créer des applications performantes, des outils utiles et des projets qui repoussent les limites de la technologie.  
