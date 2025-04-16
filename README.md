@@ -2,7 +2,7 @@
 
 <img src="https://i.ibb.co/27VR1YW8/Now-Github-allows-diagrams-and-flowcharts-in-markdown-files.jpg" alt="Bannière xYuzya" style="width:100%; max-height:300px; object-fit:cover; border-radius:12px"/>
 
-# 👋 Salut, moi c'est xYuzya
+# 👋 Salut, moi c'est Yuzya
 
 Développeur passionné basé en France 🇫🇷, je suis spécialisé en Java, Node.js, C++, C# et bien d'autres.  
 J'aime créer des applications performantes, des outils utiles et des projets qui repoussent les limites de la technologie.  
@@ -29,9 +29,9 @@ Je travaille principalement avec IntelliJ IDEA, VSCode et Unreal Engine 5.
 
 ## 📊 Statistiques GitHub
 
-<img src="https://github-readme-stats.vercel.app/api?username=ARMKatsuki&show_icons=true&theme=tokyonight&count_private=true" alt="Statistiques GitHub de ARMKatsuki"/>
+<img src="https://github-readme-stats.vercel.app/api?username=xYuzya&show_icons=true&theme=tokyonight&count_private=true" alt="Statistiques GitHub de ARMKatsuki"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARMKatsuki&layout=compact&theme=tokyonight" alt="Langages les plus utilisés"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xYuzya&layout=compact&theme=tokyonight" alt="Langages les plus utilisés"/>
 
 ---
 
